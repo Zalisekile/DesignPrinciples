@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIP/DIP.iml" filepath="$PROJECT_DIR$/DIP/DIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIPViolation/DIPViolation.iml" filepath="$PROJECT_DIR$/DIPViolation/DIPViolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPrinciples.iml" filepath="$PROJECT_DIR$/DesignPrinciples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/ISP.iml" filepath="$PROJECT_DIR$/ISP/ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISPViolation/ISPViolation.iml" filepath="$PROJECT_DIR$/ISPViolation/ISPViolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/LSP.iml" filepath="$PROJECT_DIR$/LSP/LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSPViolation/LSPViolation.iml" filepath="$PROJECT_DIR$/LSPViolation/LSPViolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/OCP.iml" filepath="$PROJECT_DIR$/OCP/OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCPViolation/OCPViolation.iml" filepath="$PROJECT_DIR$/OCPViolation/OCPViolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLK/PLK.iml" filepath="$PROJECT_DIR$/PLK/PLK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLKViolation/PLKViolation.iml" filepath="$PROJECT_DIR$/PLKViolation/PLKViolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/SRP.iml" filepath="$PROJECT_DIR$/SRP/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRPViolation/SRPViolation.iml" filepath="$PROJECT_DIR$/SRPViolation/SRPViolation.iml" />
+    </modules>
+  </component>
+</project>

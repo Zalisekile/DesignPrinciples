@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DIP" />
+        <module name="DIPViolation" />
+        <module name="ISP" />
+        <module name="ISPViolation" />
+        <module name="LSP" />
+        <module name="LSPViolation" />
+        <module name="OCP" />
+        <module name="OCPViolation" />
+        <module name="PLK" />
+        <module name="PLKViolation" />
+        <module name="SRP" />
+        <module name="SRPViolation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DIP" target="1.5" />
+      <module name="DIPViolation" target="1.5" />
+      <module name="ISP" target="1.5" />
+      <module name="ISPViolation" target="1.5" />
+      <module name="LSP" target="1.5" />
+      <module name="LSPViolation" target="1.5" />
+      <module name="OCP" target="1.5" />
+      <module name="OCPViolation" target="1.5" />
+      <module name="PLK" target="1.5" />
+      <module name="PLKViolation" target="1.5" />
+      <module name="SRP" target="1.5" />
+      <module name="SRPViolation" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

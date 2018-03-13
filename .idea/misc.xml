@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DIPViolation/pom.xml" />
+        <option value="$PROJECT_DIR$/DIP/pom.xml" />
+        <option value="$PROJECT_DIR$/SRPViolation/pom.xml" />
+        <option value="$PROJECT_DIR$/SRP/pom.xml" />
+        <option value="$PROJECT_DIR$/OCPViolation/pom.xml" />
+        <option value="$PROJECT_DIR$/OCP/pom.xml" />
+        <option value="$PROJECT_DIR$/LSPViolation/pom.xml" />
+        <option value="$PROJECT_DIR$/LSP/pom.xml" />
+        <option value="$PROJECT_DIR$/ISPViolation/pom.xml" />
+        <option value="$PROJECT_DIR$/ISP/pom.xml" />
+        <option value="$PROJECT_DIR$/PLKViolation/pom.xml" />
+        <option value="$PROJECT_DIR$/PLK/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
